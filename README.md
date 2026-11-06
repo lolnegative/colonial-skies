@@ -1,5 +1,5 @@
-# Colonial Defense
+# Colonial Skies
 
-Support and privacy pages for Colonial Defense, a satirical tower defense game for iPhone, iPad and Mac.
+Support and privacy pages for Colonial Skies, a satirical tower defense game for iPhone, iPad and Mac.
 
-Found a problem or have an idea? [Open an issue](https://github.com/lolnegative/colonial-defense/issues).
+Found a problem or have an idea? [Open an issue](https://github.com/lolnegative/colonial-skies/issues).
